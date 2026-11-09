@@ -7,6 +7,7 @@ Small custom tools I've built to speed up recurring tasks in binary exploitation
 | Tool | Description |
 |---|---|
 | [`libc-identify`](./libc-identify) | Identifies and downloads the exact remote libc build from a single leaked symbol address, via the `libc.rip` API. |
+| [`io_buffered`](./io_buffered) | A tiny, dependency-free, pwntools-style I/O layer for talking to a local process or a remote TCP/TLS service. |
 
 More tools will be added here as I build them.
 
